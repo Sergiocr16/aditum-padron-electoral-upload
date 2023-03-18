@@ -37,7 +37,7 @@ function App() {
         const values = line.split(',');
         const person = {
           identificationNumber: values[0] ? utf8Decoder.decode(utf8Encoder.encode(values[0].trim())) : undefined,
-          nombre: values[4] && values[5] && values[6] ? utf8Decoder.decode(utf8Encoder.encode(values[4].trim() + ',' + values[5].trim() + ',' + values[6].trim())) : undefined,
+          nombre: values[5] && values[6] && values[7] ? utf8Decoder.decode(utf8Encoder.encode(values[5].trim() + ',' + values[6].trim() + ',' + values[7].trim())) : undefined,
         };
         saveDataToFirebase(person)
       });
