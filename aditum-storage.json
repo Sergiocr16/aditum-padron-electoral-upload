@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aditum-storage",
+  "private_key_id": "5d72c8a0c517a5fdc02d3c8717533528af8844ba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDV3Omnb0Pz0UAr\n1SQTBsMbTMdaMA763R6+I/nqgJEOVIL7CNyfHqCp5Siw6ZrVyXApq3Vmz8JzEate\nMFOqtwDNP9KYS46vlOntVf1OjQB5Ai/2ic0M2DerMj7Tn0sWcQep4cwrA4ym/2Jq\nEGNoY8+YDPP7AEvoUbEyunQIKvInISu2qu3sG2gUw49G0LHetYU0SlsUZf8ePqli\nRgnCW02NDQ97NvN0JPSI9rqARVclgqM9d0C1td/xfVKNdZHzcjqAJht7pwqHhe/6\n0qxsDgareBEz1AP/t+X4a4eaAFC53mt4tREB0SXzIXoHr+P7RmFJOALg+BUKi0lp\nAmxlOygNAgMBAAECggEABZbKOKcjBsOwsJSQdNcPAwuT6CczQz4YrWpsf8LlZAT7\ngG5Vd+re73cNEiEyihaKis7olSg0RADOJ8G4V9DZiK5RCQUXJltv3kbt9vD0S5jY\npe5FqzDECle03vUPmXdf9mWoiecEAtOzcY5FFlsJaVVbGrrI+fMJCsFKkONpi3IV\n9BZ2ojkVVT8hCQ8dDJ8HL7kXv/Qc3RFKxbsjo/+1G78+fPUOjYGh0kXadlhdI9Pz\nCN423eb6ZJ9UOmzCZI5xqh8ZVN21yF03ZtR3iKJhQyOIwuaATTs2YQY1OXNIPCyY\nK0tOXovBNty4mOfNQ5R0hwDtu9Y38uTHHVXb6332cQKBgQD2VEQa9nM9qs2V/Qkq\nRMxzDqwyHZLo2affTHxZAxO/HDdSCs7FBFqvKKiHDYJKeLE4lE8V+Ur/mngt+BjU\nRhoLf14AzC1NxIQv/qBZpigyT9mgqTCxJbsz/9xizXvYARO6WQjQeL/Iyd0rd5C5\nKg9bhJt/dLBSHJnNIMApuPWP9QKBgQDeQlgzePd+E26P2+wALgo3KUm0ljilTu/y\ncl9jCRlFbn+o/4JWS0q5cf3TbQZniEJlDLugC0CwpwLj1VyvZagZqR6t2hOT2IW1\nYenot62HNC5YEC7fiL1reitpCpaBOSUvm7piwLwrOIn7fz8rge4XGJYxHepf/RsD\nC6Le+3mguQKBgQDe8Wdui83Da3qEnK6V3gy4uffpp9CWBKCmPoBww5M0reH31CZO\nNGGrFH5rNTPOGSw0zC5D8gwKCRFqcZhvTz81VsKKsED0mL8W/Tq9yN+qoZCTk22p\ndz/WkWUy202SM29agkiy/gZ+QQ120NFgdQvPRdbC5abLum0NNe4WFPvTnQKBgGHL\n5Y14i8Yg/MQ2K8kEeSA+fZ0FgJVUf4Y5xzkHluQTM/8DtrEL3ixtORff4DKMJVLb\nYG+So/tW8ZGYn3jaDTaFUOeEjpq+ak8eb1MkByn3zvCW5lkbjOWO0y0cKI9hurgR\nGNk9H08RSL2uBvi46i+ldOjV1fw4nbsgUqE1HBaZAoGBALDYqmmEnbNChfTefh8p\np7ZFM/OBzdKoSIzBpHf6y8g39F89B6eqPwQh1tZ/hota20PNRw0c+78h2renTDAr\nCzNaRY6UGJbDJIiop75zdcxEQJTJ19fM3itrONO8GsPLd0Oogu9xNYwiMrE1Py8n\n4E3FDvowIcIxSOhTlASIof+f\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-sxr01@aditum-storage.iam.gserviceaccount.com",
+  "client_id": "104966764807170257132",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-sxr01%40aditum-storage.iam.gserviceaccount.com"
+}
